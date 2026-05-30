@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![gif-principal](https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif)
+![gif-principal](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2hhNmE1c25heXdibXd3NXI5Z291emFiNW9lOWc3cXZ2M3QwbDh1YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8SEnoMhrEeBDa/giphy.gif)
 
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -164,8 +164,9 @@ SHOW GRANTS FOR 'admin'@'localhost';
 
 ### 📸 Privilegios del usuario (SHOW GRANTS)
 
-<!-- 🖼️ PEGA AQUÍ SCREENSHOT DE SHOW GRANTS FOR 'admin'@'localhost' -->
-![screenshot-grants](PEGA_AQUI_SCREENSHOT_SHOW_GRANTS)
+
+<img width="443" height="168" alt="image" src="https://github.com/user-attachments/assets/9ec701b9-0705-45ce-a245-019f443eadf8" />
+
 
 ---
 
@@ -191,7 +192,7 @@ composer require sonata-project/google-authenticator
 $sql_host = "localhost";
 $sql_name = "company_info";
 $sql_user = "admin";       // Usuario con privilegios mínimos
-$sql_pass = "mySecreto27";
+$sql_pass = "123";
 ```
 
 ### 4️⃣ Ejecutar el SQL de la base de datos
@@ -280,33 +281,33 @@ Importar las tablas en phpMyAdmin desde la pestaña SQL.
 
 ### ✅ Formulario de Registro
 
-<!-- 🖼️ PEGA AQUÍ SCREENSHOT DEL FORMULARIO DE REGISTRO -->
-![screenshot-registro](PEGA_AQUI_SCREENSHOT_FORMULARIO_REGISTRO)
+<img width="1494" height="998" alt="image" src="https://github.com/user-attachments/assets/2dd7aa3c-29ec-40b6-a4bb-49e0e058ca08" />
+
 
 ### ✅ Código QR generado tras el registro
 
-<!-- 🖼️ PEGA AQUÍ SCREENSHOT DEL QR GENERADO -->
-![screenshot-qr](PEGA_AQUI_SCREENSHOT_QR)
+<img width="1552" height="968" alt="image" src="https://github.com/user-attachments/assets/3f59b7b4-13fb-42ec-809f-a973c5f29b30" />
+
 
 ### ✅ Login — Formulario principal
 
-<!-- 🖼️ PEGA AQUÍ SCREENSHOT DEL LOGIN -->
-![screenshot-login](PEGA_AQUI_SCREENSHOT_LOGIN)
+<img width="1571" height="707" alt="image" src="https://github.com/user-attachments/assets/d9621a90-ad97-494c-acd6-30c390e06eb6" />
+
 
 ### ✅ Verificación 2FA
 
-<!-- 🖼️ PEGA AQUÍ SCREENSHOT DE LA PÁGINA DE VERIFICACIÓN 2FA -->
-![screenshot-2fa](PEGA_AQUI_SCREENSHOT_2FA)
+<img width="1606" height="661" alt="image" src="https://github.com/user-attachments/assets/5235f7e0-1b44-4f48-a4c2-49cdc9705497" />
+
 
 ### ✅ Herramienta de Hash
 
-<!-- 🖼️ PEGA AQUÍ SCREENSHOT DEL HASH TOOL -->
-![screenshot-hash](PEGA_AQUI_SCREENSHOT_HASH_TOOL)
+<img width="1563" height="950" alt="image" src="https://github.com/user-attachments/assets/e04570a7-f3aa-4afa-822e-21c67dc8f359" />
+
 
 ### ✅ Tablas en phpMyAdmin
 
-<!-- 🖼️ PEGA AQUÍ SCREENSHOT DE LAS TABLAS CON DATOS -->
-![screenshot-tablas](PEGA_AQUI_SCREENSHOT_TABLAS)
+<img width="1387" height="436" alt="image" src="https://github.com/user-attachments/assets/428464e1-625b-4cf7-8532-429217d7d7be" />
+
 
 ---
 
@@ -428,7 +429,7 @@ return $this->conexion->lastInsertId();
 
 ## 👨‍💻 Desarrollado por
 
-![gif-footer](https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif)
+![gif-footer](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjNhb2N6bG45OHFvenRqcTYzemFqeGM4dHZkbnhsdXR3cjJlMzF5byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12wK5ab2fH2OLm/giphy.gif)
 
 **Este laboratorio ha sido desarrollado por estudiantes de la Universidad Tecnológica de Panamá:**
 
