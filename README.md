@@ -435,7 +435,8 @@ return $this->conexion->lastInsertId();
 
 | Campo | Información |
 |---|---|
-| 👤 **Nombre** | Abraham Magin |
+| 👤 **Primer Integrante** | Abraham Magin |
+| 👤 **Segundo Integrante** | Christian Dominguez |
 | 📧 **Correo** | abraham.magin@utp.ac.pa |
 | 📚 **Curso** | Desarrollo Web VII |
 | 👩‍🏫 **Instructora** | Ing. Irina Fong |
